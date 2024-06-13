@@ -1,2 +1,1 @@
-# NewRepository_13062024
-for the purpose of training
+This is simply a brach for the practical purpose
